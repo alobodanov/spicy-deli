@@ -1,0 +1,43 @@
+App\Entity\Products:
+  sik:
+    name: "Sik Sik Wat"
+    category: <setCategory('sik')>
+    sku: "DISH999ABCD"
+    price: 13.49
+    created: <(new \DateTime())>
+  huo:
+    name: "Huo Guo"
+    category: <setCategory('huo')>
+    sku: "DISH234ZFDR"
+    price: 11.99
+    created: <(new \DateTime())>
+  cau:
+    name: "Cau-Cau"
+    category: <setCategory('cau')>
+    sku: "DISH775TGHY"
+    price: 15.29
+    created: <(new \DateTime())>
+
+App\Entity\Category:
+  ethiopia:
+    name: 'Ethiopia'
+  meat:
+    name: 'Meat'
+  beef:
+    name: 'Beef'
+  chili:
+    name: 'Chili pepper'
+  china:
+    name: 'China'
+  fish:
+    name: 'Fish'
+  tofu:
+    name: 'Tofu'
+  sichuan:
+    name: 'Sichuan pepper'
+  peru:
+    name: 'Peru'
+  potato:
+    name: 'Potato'
+  yellow:
+    name: 'Yello Chili pepper'

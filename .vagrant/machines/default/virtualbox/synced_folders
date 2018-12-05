@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/artem/Documents/Personal/Code challenges/smooth/spicy-deli","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/artem/Documents/Personal/Code challenges/smooth/spicy-deli","disabled":false,"__vagrantfile":true}}}
